@@ -9,7 +9,7 @@
 #import "SRRecordManager.h"
 #import <AVFoundation/AVFoundation.h>
 
-#define kSRRecordMaxTime 11//10//*60 //单位是秒
+#define kSRRecordMaxTime 5//10//*60 //单位是秒
 
 @interface SRRecordManager ()<AVAudioPlayerDelegate>
 {

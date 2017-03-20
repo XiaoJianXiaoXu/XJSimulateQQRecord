@@ -1,14 +1,14 @@
 
-###模仿QQ的录音功能
+### 模仿QQ的录音功能
 
-####注意：
+#### 注意：
 
 1. 需要导入__Masonry__
 2. 要在__真机__上才能使用录音功能
 3. 要使用录音功能需要在功能的plist文件中加关键字__NSMicrophoneUsageDescription__
 
 
-####使用：
+#### 使用：
 	//导入
 	#import "SRView.h"
 	
@@ -38,7 +38,8 @@
 	}
 	
 	
-####参考：
+#### 参考：
+
 ChatKitDemo	 作者：余强（抱歉没有在github上找见）
 
 SpectrumView 作者：黄国裕（抱歉没有在github上找见）
