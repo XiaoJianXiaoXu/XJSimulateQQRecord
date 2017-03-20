@@ -8,6 +8,10 @@
 3. 要使用录音功能需要在功能的plist文件中加关键字**NSMicrophoneUsageDescription**
 
 
+#### 效果
+
+![alt text](仿QQ录音功能2.gif)
+
 #### 使用：
 	//导入
 	#import "SRView.h"
