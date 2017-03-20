@@ -3,9 +3,9 @@
 
 #### 注意：
 
-1. 需要导入__Masonry__
-2. 要在__真机__上才能使用录音功能
-3. 要使用录音功能需要在功能的plist文件中加关键字__NSMicrophoneUsageDescription__
+1. 需要导入**Masonry**
+2. 要在**真机**上才能使用录音功能
+3. 要使用录音功能需要在功能的plist文件中加关键字**NSMicrophoneUsageDescription**
 
 
 #### 使用：
